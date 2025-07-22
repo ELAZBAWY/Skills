@@ -15,7 +15,7 @@ Designed to showcase a company's services with a clean and professional layout.
 - JavaScript (vanilla)
 
 ## Live Demo
-[Click Here to View](  https://elazbawy.github.io/-Responsive-Business-Landing-Page-HTML-CSS-JavaScript/)
+[Click Here to View](https://elazbawy.github.io/Skills/)
 
 
 ## Installation
